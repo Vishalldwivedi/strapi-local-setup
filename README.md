@@ -160,10 +160,8 @@ From the example project (`strapi/examples/getstarted/`):
 
 ---
 
-## 🎥 Loom Video
-
-<!-- TODO: Add your Loom video link here -->
-[Add Loom Video Link Here]
+## Proof:
+![Strapi Admin Panel](./strap-1.png)
 
 ---
 
