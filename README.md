@@ -161,7 +161,7 @@ From the example project (`strapi/examples/getstarted/`):
 ---
 
 ## Proof:
-![Strapi Admin Panel](./strap-1.png)
+![Strapi Admin Panel](./image.png)
 
 ---
 
