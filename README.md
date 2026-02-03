@@ -25,7 +25,7 @@ This repository contains:
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/shlokamdar/strapi-local-setup.git
+   git clone https://github.com/Vishalldwivedi/strapi-local-setup.git
    cd strapi-local-setup
    ```
 
