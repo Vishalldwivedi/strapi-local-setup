@@ -175,8 +175,8 @@ From the example project (`strapi/examples/getstarted/`):
 
 ## 👤 Author
 
-**Shloka Amdar**  
-GitHub: [@shlokamdar](https://github.com/shlokamdar)
+**Vishal dwivedi**  
+GitHub: https://github.com/Vishalldwivedi
 
 ---
 
